@@ -25,4 +25,4 @@ Some personal notes, about coding tips
     "react-scripts": "^1.1.4",
     "cross-env": "^1.1.4"
   }
-}
+}`
