@@ -1,7 +1,7 @@
 # personalNotes
 Some personal notes, about coding tips
 
-#Note: package.son tips
+# Note: package.son tips
 *from "https://davidwells.io/blog/advanced-package-json-tips"
 
 `{
